@@ -1,0 +1,8 @@
+[submodule "client"]
+	branch = master
+	path = client
+	url = https://github.com/cruzortiz99/burger_client.git
+[submodule "server"]
+	branch = master
+	path = server
+	url = https://github.com/cruzortiz99/burger_server.git
